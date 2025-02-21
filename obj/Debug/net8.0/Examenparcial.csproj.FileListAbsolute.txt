@@ -1,0 +1,15 @@
+/home/laboratorio3/ucatec/avanzada/Examenparcial/obj/Debug/net8.0/Examenparcial.GeneratedMSBuildEditorConfig.editorconfig
+/home/laboratorio3/ucatec/avanzada/Examenparcial/obj/Debug/net8.0/Examenparcial.AssemblyInfoInputs.cache
+/home/laboratorio3/ucatec/avanzada/Examenparcial/obj/Debug/net8.0/Examenparcial.AssemblyInfo.cs
+/home/laboratorio3/ucatec/avanzada/Examenparcial/obj/Debug/net8.0/Examenparcial.csproj.CoreCompileInputs.cache
+/home/laboratorio3/ucatec/avanzada/Examenparcial/obj/Debug/net8.0/Examenparcial.sourcelink.json
+/home/laboratorio3/ucatec/avanzada/Examenparcial/bin/Debug/net8.0/Examenparcial
+/home/laboratorio3/ucatec/avanzada/Examenparcial/bin/Debug/net8.0/Examenparcial.deps.json
+/home/laboratorio3/ucatec/avanzada/Examenparcial/bin/Debug/net8.0/Examenparcial.runtimeconfig.json
+/home/laboratorio3/ucatec/avanzada/Examenparcial/bin/Debug/net8.0/Examenparcial.dll
+/home/laboratorio3/ucatec/avanzada/Examenparcial/bin/Debug/net8.0/Examenparcial.pdb
+/home/laboratorio3/ucatec/avanzada/Examenparcial/obj/Debug/net8.0/Examenparcial.dll
+/home/laboratorio3/ucatec/avanzada/Examenparcial/obj/Debug/net8.0/refint/Examenparcial.dll
+/home/laboratorio3/ucatec/avanzada/Examenparcial/obj/Debug/net8.0/Examenparcial.pdb
+/home/laboratorio3/ucatec/avanzada/Examenparcial/obj/Debug/net8.0/Examenparcial.genruntimeconfig.cache
+/home/laboratorio3/ucatec/avanzada/Examenparcial/obj/Debug/net8.0/ref/Examenparcial.dll
